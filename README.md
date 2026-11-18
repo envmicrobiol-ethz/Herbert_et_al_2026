@@ -1,6 +1,7 @@
-# Wildstrubel glacier-forefield metagenomics / metatranscriptomics: analysis scripts
+# Depth-partitioned oxidation of atmospheric hydrogen, carbon monoxide and methane in a glacier forefield soil analysis scripts
 
-Key scripts used for the manuscript (Herbert et al., 2026, under submission).
+
+Key scripts used for the manuscript (Herbert et al., 2026 "Depth-partitioned oxidation of atmospheric hydrogen, carbon monoxide and methane in a glacier forefield soil", under submission).
 These are the SLURM / shell / Python scripts that were run on a SLURM HPC cluster.
 Scripts are grouped by the section of the Methods they correspond to, and numbered in the order they were run.
 Per-sample re-runs, test runs, logs and merged intermediate tables are not included.
